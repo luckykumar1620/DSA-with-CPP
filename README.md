@@ -13,7 +13,6 @@ Organized topic-wise for quick revision and interview preparation.
 - 🔄 Recursion  
 - ⚡ Sorting & Searching  
 - 📊 Stack & Queue  
-- 🧮 Dynamic Programming  
 - ➕ Graphs & Traversals  
 
 ---
